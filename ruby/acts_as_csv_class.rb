@@ -34,6 +34,12 @@
 # as a macro
 #
 
+
+#
+# as a module
+#
+
+
 m = RubyCsv.new
 puts m.headers.inspect
 puts m.csv_contents.inspect
